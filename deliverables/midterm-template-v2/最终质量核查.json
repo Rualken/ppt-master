@@ -1,0 +1,40 @@
+{
+  "slides": 18,
+  "parts": {
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 2,
+    "5": 4,
+    "6": 2
+  },
+  "native_tables": 2,
+  "native_charts": 1,
+  "template_backing_parts_byte_identical": 41,
+  "source_result_tables_exact_match": true,
+  "type_counts_exact_match": true,
+  "all_authored_text_present_in_render": true,
+  "no_text_outside_canvas": true,
+  "render_overlap_candidates": [],
+  "svg_quality": {
+    "total": 18,
+    "passed": 18,
+    "warnings": 0,
+    "errors": 0
+  },
+  "delivery_status": "passed-with-advisories",
+  "delivery_advisories": [
+    {
+      "code": "font_portability",
+      "message": "Some fonts declared or referenced by the presentation are outside the common Office/OS portability set; target-system availability was not verified.",
+      "faces": [
+        "Calibri Light",
+        "仿宋_GB2312",
+        "微软雅黑",
+        "游ゴシック",
+        "游ゴシック Light"
+      ]
+    }
+  ],
+  "validation_limit": "LibreOffice actual open and render; not a Microsoft PowerPoint UI test."
+}
